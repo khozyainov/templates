@@ -1,0 +1,17 @@
+server {
+    listen 80 default_server;
+    root /app/;
+    index basic.html;
+    charset utf-8;
+
+    server_name _;
+
+    location / {
+        include uwsgi_params;
+        uwsgi_pass 127.0.0.1:3031;
+    }
+
+    client_body_timeout 360s;
+    uwsgi_read_timeout 660s;
+
+}
