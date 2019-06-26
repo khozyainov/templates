@@ -1,0 +1,119 @@
+2019/06/26 12:49:28 [info] 7#7 discovery started
+2019/06/26 12:49:28 [notice] 7#7 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 12:49:28 [info] 8#8 controller started
+2019/06/26 12:49:28 [notice] 1#1 process 7 exited with code 0
+2019/06/26 12:49:28 [info] 9#9 router started
+2019/06/26 12:49:28 [info] 9#9 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 12:57:41 [notice] 1#1 process 8 exited with code 0
+2019/06/26 12:57:41 [notice] 1#1 process 9 exited with code 0
+2019/06/26 13:02:07 [info] 6#6 discovery started
+2019/06/26 13:02:07 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 13:02:07 [info] 7#7 controller started
+2019/06/26 13:02:07 [notice] 1#1 process 6 exited with code 0
+2019/06/26 13:02:07 [info] 8#8 router started
+2019/06/26 13:02:07 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 13:03:42 [info] 6#6 discovery started
+2019/06/26 13:03:42 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 13:03:42 [info] 7#7 controller started
+2019/06/26 13:03:42 [notice] 1#1 process 6 exited with code 0
+2019/06/26 13:03:42 [info] 8#8 router started
+2019/06/26 13:03:42 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 13:05:11 [notice] 1#1 process 7 exited with code 0
+2019/06/26 13:05:11 [notice] 1#1 process 8 exited with code 0
+2019/06/26 13:05:16 [info] 6#6 discovery started
+2019/06/26 13:05:16 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 13:05:16 [notice] 1#1 process 6 exited with code 0
+2019/06/26 13:05:16 [info] 8#8 router started
+2019/06/26 13:05:16 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 13:05:16 [info] 7#7 controller started
+2019/06/26 13:06:15 [info] 7#7 discovery started
+2019/06/26 13:06:15 [notice] 7#7 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 13:06:15 [notice] 1#1 process 7 exited with code 0
+2019/06/26 13:06:15 [info] 9#9 router started
+2019/06/26 13:06:15 [info] 9#9 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 13:06:15 [info] 8#8 controller started
+2019/06/26 13:06:52 [notice] 1#1 process 8 exited with code 0
+2019/06/26 13:06:55 [info] 9#9 discovery started
+2019/06/26 13:06:55 [notice] 9#9 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 13:06:55 [notice] 1#1 process 9 exited with code 0
+2019/06/26 13:06:55 [info] 11#11 router started
+2019/06/26 13:06:55 [info] 11#11 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 13:06:55 [info] 10#10 controller started
+2019/06/26 13:08:30 [info] 7#7 discovery started
+2019/06/26 13:08:30 [notice] 7#7 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 13:08:30 [notice] 1#1 process 7 exited with code 0
+2019/06/26 13:08:30 [info] 9#9 router started
+2019/06/26 13:08:30 [info] 9#9 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 13:08:30 [info] 8#8 controller started
+2019/06/26 13:10:08 [notice] 1#1 process 9 exited with code 0
+2019/06/26 13:10:08 [notice] 1#1 process 8 exited with code 0
+2019/06/26 13:11:37 [info] 6#6 discovery started
+2019/06/26 13:11:37 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 13:11:37 [info] 7#7 controller started
+2019/06/26 13:11:37 [notice] 1#1 process 6 exited with code 0
+2019/06/26 13:11:37 [info] 8#8 router started
+2019/06/26 13:11:37 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 14:10:57 [notice] 1#1 process 7 exited with code 0
+2019/06/26 14:10:57 [notice] 1#1 process 8 exited with code 0
+2019/06/26 14:11:02 [info] 6#6 discovery started
+2019/06/26 14:11:02 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 14:11:02 [notice] 1#1 process 6 exited with code 0
+2019/06/26 14:11:02 [info] 8#8 router started
+2019/06/26 14:11:02 [info] 7#7 controller started
+2019/06/26 14:11:02 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 14:12:05 [notice] 1#1 process 8 exited with code 0
+2019/06/26 14:12:05 [notice] 1#1 process 7 exited with code 0
+2019/06/26 14:12:08 [info] 7#7 discovery started
+2019/06/26 14:12:08 [notice] 7#7 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 14:12:08 [info] 8#8 controller started
+2019/06/26 14:12:08 [notice] 1#1 process 7 exited with code 0
+2019/06/26 14:12:08 [info] 9#9 router started
+2019/06/26 14:12:08 [info] 9#9 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 14:15:58 [notice] 1#1 process 9 exited with code 0
+2019/06/26 14:15:58 [notice] 1#1 process 8 exited with code 0
+2019/06/26 14:16:01 [info] 6#6 discovery started
+2019/06/26 14:16:01 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 14:16:01 [info] 7#7 controller started
+2019/06/26 14:16:01 [notice] 1#1 process 6 exited with code 0
+2019/06/26 14:16:01 [info] 8#8 router started
+2019/06/26 14:16:01 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 14:17:24 [notice] 1#1 process 8 exited with code 0
+2019/06/26 14:17:24 [notice] 1#1 process 7 exited with code 0
+2019/06/26 14:17:26 [info] 6#6 discovery started
+2019/06/26 14:17:26 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 14:17:26 [info] 7#7 controller started
+2019/06/26 14:17:26 [info] 8#8 router started
+2019/06/26 14:17:26 [notice] 1#1 process 6 exited with code 0
+2019/06/26 14:17:26 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 14:17:57 [notice] 1#1 process 7 exited with code 0
+2019/06/26 14:17:57 [notice] 1#1 process 8 exited with code 0
+2019/06/26 14:18:01 [info] 6#6 discovery started
+2019/06/26 14:18:01 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 14:18:01 [info] 7#7 controller started
+2019/06/26 14:18:01 [info] 8#8 router started
+2019/06/26 14:18:01 [notice] 1#1 process 6 exited with code 0
+2019/06/26 14:18:01 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 14:20:15 [notice] 1#1 process 7 exited with code 0
+2019/06/26 14:20:15 [notice] 1#1 process 8 exited with code 0
+2019/06/26 14:20:18 [info] 7#7 discovery started
+2019/06/26 14:20:18 [notice] 7#7 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 14:20:18 [notice] 1#1 process 7 exited with code 0
+2019/06/26 14:20:18 [info] 9#9 router started
+2019/06/26 14:20:18 [info] 9#9 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 14:20:18 [info] 8#8 controller started
+2019/06/26 14:21:50 [info] 6#6 discovery started
+2019/06/26 14:21:50 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 14:21:50 [info] 7#7 controller started
+2019/06/26 14:21:50 [info] 8#8 router started
+2019/06/26 14:21:50 [notice] 1#1 process 6 exited with code 0
+2019/06/26 14:21:50 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 14:31:04 [info] 24#24 "app" application started
+2019/06/26 14:33:27 [notice] 1#1 process 7 exited with code 0
+2019/06/26 14:33:27 [notice] 1#1 process 8 exited with code 0
+2019/06/26 15:02:23 [info] 6#6 discovery started
+2019/06/26 15:02:23 [notice] 6#6 module: python 3.5.3 "/usr/lib/unit/modules/python3.5.unit.so"
+2019/06/26 15:02:23 [info] 7#7 controller started
+2019/06/26 15:02:23 [notice] 1#1 process 6 exited with code 0
+2019/06/26 15:02:23 [info] 8#8 router started
+2019/06/26 15:02:23 [info] 8#8 OpenSSL 1.1.0j  20 Nov 2018, 101000af
+2019/06/26 15:02:23 [info] 9#9 "app" application started

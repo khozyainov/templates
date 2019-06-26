@@ -1,0 +1,26 @@
+{
+    "settings": {
+        "http": {
+            "header_read_timeout": 60,
+            "body_read_timeout": 60,
+            "send_timeout": 60,
+            "idle_timeout": 60
+        }
+    },
+
+    "listeners": {
+        "*:8000": {
+            "pass": "applications/app"
+        }
+    },
+
+    "applications": {
+
+        "app": {
+            "type": "python 3",
+            "module": "main",
+            "path": "/www/",
+            "processes": 1
+        }
+    }
+}

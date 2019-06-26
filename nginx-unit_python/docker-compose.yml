@@ -1,0 +1,17 @@
+version: "3.2"
+services:
+  unit_aiohttp_genesys:
+    build: .
+    restart: always
+    ports:
+      - 12345:8000
+      - 5000:5000
+    volumes:
+      - ./config/config.json:/config/config.json
+      - ./var/log/unit/unit.log:/var/log/unit.log
+      - ./var/log/app/:/var/log/app/
+      - ./state/:/var/lib/unit/
+      - ./app/:/www/
+      - ./var/log/nginx/:/var/log/nginx/
+    env_file:
+      - ./demo.env
